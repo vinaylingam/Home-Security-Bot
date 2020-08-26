@@ -1,0 +1,4 @@
+Distance 0
+Temperature 37
+Cooler 0
+Heater 0
