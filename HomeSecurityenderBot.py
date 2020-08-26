@@ -3,9 +3,9 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import logging
 import time
+import TOKEN
 
-
-updater = Updater(token='1094628032:AAE-nYzmYKNuoeD9ODARhyKiZVMdd6wnS_8', use_context=True)
+updater = Updater(token=TOKEN.token, use_context=True)
 dispatcher = updater.dispatcher
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO, filename = "logs.txt")
