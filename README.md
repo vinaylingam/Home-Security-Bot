@@ -31,5 +31,5 @@ replace the xxxxxxxxxxx with the `Token` u got from [BotFather](https://t.me/Bot
 for any queries, contact.
 gmail - vinaylingam18@gmail.com
 telegram - vinaylingam
-discord - vinaylingam#2283
+discord - vinay#4904
 ```
